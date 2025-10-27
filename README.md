@@ -14,34 +14,61 @@
 - 👨🏻‍💼 Former **Accountant**, now passionate about **Data Analysis**
 - 📈 Skilled in **Data Cleaning, Analysis, and Visualization**
 - 🧩 I love transforming raw data into **meaningful insights**
-- 🧮 Experienced in **Excel**, **Power Query**, **Pivot Tables**, and **Dashboards**
-- 💾 Proficient in **SQL** for querying and managing data
+- 🧮 Experienced in **Excel**, **Power Query**, **Power Pivot**, and **Dashboards**
+- 💾 Proficient in **SQL Server** for querying and managing data
 - 📊 Currently learning **Power BI** to create interactive dashboards
 - 🎯 Life Motto: *“Numbers tell stories — I just help them speak clearly.”*
 
 ---
 
 <h2 align="left">🧰 Tools & Technologies</h2>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-query" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Power_Query_logo.svg" alt="Power Query" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_logo_%282013–2019%29.svg" alt="Microsoft Office" width="40" height="40"/> 
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50" height="50" alt="Excel"/><br>
+        <sub><b>Excel</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank">
+        <img src="https://i.imgur.com/TuXK5zK.png" width="50" height="50" alt="Power Query"/><br>
+        <sub><b>Power Query</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://support.microsoft.com/en-us/office/power-pivot-overview-00a7cb74-4b3f-4e41-8bcb-ff9ef1068b8f" target="_blank">
+        <img src="https://i.imgur.com/YD3O8uN.png" width="50" height="50" alt="Power Pivot"/><br>
+        <sub><b>Power Pivot</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://powerbi.microsoft.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50" height="50" alt="Power BI"/><br>
+        <sub><b>Power BI</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" height="55" alt="SQL Server"/><br>
+        <sub><b>SQL Server</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.microsoft.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="45" height="45" alt="Microsoft"/><br>
+        <sub><b>Microsoft</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
+        <sub><b>Python</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,7 +77,7 @@
 - 🧼 **Data Cleaning** using Excel and Power Query  
 - 📊 **Data Visualization** via Dashboards (Excel & Power BI)  
 - 📑 **Financial and Business Reports** for decision-making  
-- 🗂️ **Database Queries** and data extraction with SQL  
+- 🗂️ **Database Queries** and data extraction with SQL Server  
 - 💡 Building simple automation in Excel using formulas and logic  
 
 ---
@@ -61,10 +88,9 @@ Here are some of the projects I’ve worked on (and continuously improving 👇)
 
 - 📊 **Sales Dashboard in Excel** – Cleaned, transformed, and visualized sales data with KPIs and interactive charts.  
 - 🧮 **Financial Analysis Report** – Automated data processing and trend analysis using Excel & Power Query.  
-- 💾 **SQL Data Exploration** – Performed data queries to extract business insights from structured databases.  
+- 💾 **SQL Server Data Exploration** – Performed data queries to extract business insights from structured databases.  
 - 📈 **Power BI Dashboard (In Progress)** – Building interactive visuals and storytelling dashboards.  
 
-> 💡 *More projects will be added soon — stay tuned!*
 
 ---
 
@@ -76,4 +102,4 @@ Here are some of the projects I’ve worked on (and continuously improving 👇)
 
 ---
 
-✨ *“Turning raw data into clear decisions — one dashboard at a time.”*  
+✨ *“Turning raw data into clear decisions — one dashboard at a time.”*
